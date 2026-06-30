@@ -1,8 +1,6 @@
 # Dexter Fernandes
 
-CV and robotics engineer based in Bristol, UK. MSc Robotics, University of Bristol 2024. I build real-time perception systems for constrained hardware — inference optimisation, object detection, SLAM.
-
-Currently looking for CV/ML or robotics engineering roles. Open to relocating.
+I build computer vision systems that run in the real world — deployed on BP oil rigs and Texas construction sites, optimised for edge hardware with tight latency and power budgets. MSc Robotics, University of Bristol 2024.
 
 ---
 
@@ -11,7 +9,7 @@ Currently looking for CV/ML or robotics engineering roles. Open to relocating.
 | | |
 |---|---|
 | **Edge AI** | OpenVINO, TensorRT, ONNX, INT8/FP16 quantisation |
-| **Detection** | YOLO, ViT, RT-DETR |
+| **Detection** | YOLO, ViT, RT-DET, D-FINE |
 | **Robotics** | ROS2, LiDAR SLAM, sensor fusion |
 | **Stack** | PyTorch, OpenCV, CUDA, GStreamer, NVIDIA DeepStream |
 
@@ -19,9 +17,9 @@ Currently looking for CV/ML or robotics engineering roles. Open to relocating.
 
 ## Projects in Production
 
-**Z-Alert** — Real-time industrial perception system deployed on BP oil rigs, achieving a 15% F1 improvement and 67% fewer live pipeline crashes.
+**Rig AI** — Real-time red zone monitoring on live BP oil rigs in the Sultanate of Oman. Detects personnel and equipment intrusions, classifies zones as safe or unsafe, 24/7.
 
-**ViCAS** — Construction site safety detection system built with a team of four, deployed on edge hardware via Azure IoT and OpenVINO.
+**ViCAS** — Real-time collision avoidance on live construction sites in Texas. Detects workers in vehicle blind zones and alerts drivers before near-miss incidents occur.
 
 ---
 
