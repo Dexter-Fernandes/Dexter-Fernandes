@@ -1,17 +1,7 @@
 # Dexter Fernandes
 
-I build computer vision systems that run in the real world — deployed on BP oil rigs and Texas construction sites, optimised for edge hardware with tight latency and power budgets. MSc Robotics, University of Bristol 2024.
+I build computer vision systems that run in the real world, optimised for edge hardware with tight latency and power budgets. MSc Robotics, University of Bristol 2024.
 
----
-
-## What I work with
-
-| | |
-|---|---|
-| **Edge AI** | OpenVINO, TensorRT, ONNX, INT8/FP16 quantisation |
-| **Detection** | YOLO, ViT, RT-DET, D-FINE |
-| **Robotics** | ROS2, LiDAR SLAM, sensor fusion |
-| **Stack** | PyTorch, OpenCV, CUDA, GStreamer, NVIDIA DeepStream |
 
 ---
 
